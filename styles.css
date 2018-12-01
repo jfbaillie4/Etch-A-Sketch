@@ -1,0 +1,54 @@
+
+span {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+span input {
+    padding: 0px 10px;
+    line-height: 25px;
+    height: 25px;
+    margin-top: 10px;
+    font-size:14px;
+    color: black;
+    width: 180px;
+}
+
+#container {
+    position: relative; 
+    margin-right: auto;
+    margin-left: auto;
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+}
+
+.square {
+    float:left;
+    background-color: white;
+}
+
+.drawn {
+    background-color: black;
+}
+
+#how-to {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    line-height: 50px;
+    width: 100%;
+    background-color: rgb(190, 190, 190);
+    max-height: 9%;
+}
+
+span.h3 {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.right-align {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
